@@ -1,7 +1,7 @@
 {
  "shop": "Pro Hunter",
  "source": "https://drive.google.com/drive/folders/1Ow820bh6u5x7I-7VEvD5QKrbuqWops67",
- "updated": "2026-10-31 22:03",
+ "updated": "2026-10-31 22:35",
  "localImages": false,
  "total": 477,
  "groups": [
@@ -1611,7 +1611,78 @@
    "sub": "",
    "new": false,
    "open": false,
-   "date": "2024-06-05"
+   "date": "2024-06-05",
+   "options": [
+    {
+     "name": "M0996513 BZDQ-01 S",
+     "price": 45.0
+    },
+    {
+     "name": "M0996514 BZDQ-02 M",
+     "price": 45.0
+    },
+    {
+     "name": "M0996515 BZDQ-03 L",
+     "price": 45.0
+    },
+    {
+     "name": "M0996516 LXDQ-01 SS",
+     "price": 40.0
+    },
+    {
+     "name": "M0996517 LXDQ-02 S",
+     "price": 40.0
+    },
+    {
+     "name": "M0996518 LXDQ-03 M",
+     "price": 40.0
+    },
+    {
+     "name": "M0996519 LXDQ-04 L",
+     "price": 40.0
+    },
+    {
+     "name": "M0996520 YBDQ-01 SS",
+     "price": 40.0
+    },
+    {
+     "name": "M0996521 YBDQ-02 S",
+     "price": 40.0
+    },
+    {
+     "name": "M0996522 YBDQ-03 M",
+     "price": 40.0
+    },
+    {
+     "name": "M0996523 YBDQ-04 L",
+     "price": 40.0
+    },
+    {
+     "name": "M0996524 YBDQ-05 LL",
+     "price": 40.0
+    },
+    {
+     "name": "M0996525 YBSQ-01 SS",
+     "price": 20.0
+    },
+    {
+     "name": "M0996526 YBSQ-02 S",
+     "price": 20.0
+    },
+    {
+     "name": "M0996527 YBSQ-03 M",
+     "price": 20.0
+    },
+    {
+     "name": "M0996528 YBSQ-04 L",
+     "price": 20.0
+    },
+    {
+     "name": "M0996529 YBSQ-05 LL",
+     "price": 20.0
+    }
+   ],
+   "note": "ราคาในตารางเป็นราคาส่งต่อหน่วย; ตารางบนแสดงจำนวนชิ้นต่อแพ็ค (BZDQ=5, LXDQ=9, YBDQ/YBSQ=12/10 ตามขนาด)"
   },
   {
    "id": "1bSdiGXT9W0YRhm60viIgMOE98KVXLIv9",
@@ -1953,7 +2024,34 @@
    "sub": "",
    "new": false,
    "open": false,
-   "date": "2025-07-20"
+   "date": "2025-07-20",
+   "options": [
+    {
+     "name": "P631201501 Pearl White",
+     "price": 100.0
+    },
+    {
+     "name": "P631201502 Sight Pink",
+     "price": 100.0
+    },
+    {
+     "name": "P631201503 Silver Glitter",
+     "price": 100.0
+    },
+    {
+     "name": "P631201504 Spider Purple",
+     "price": 100.0
+    },
+    {
+     "name": "P631201508 Twinkle Silver",
+     "price": 100.0
+    },
+    {
+     "name": "P631201512 Chartreuse",
+     "price": 100.0
+    }
+   ],
+   "note": "ขนาด 1.5 นิ้ว บรรจุ 10 ชิ้นต่อซอง มี 6 สี ราคาในตารางเป็นราคาส่งต่อซอง"
   },
   {
    "id": "1OvyqOr1NDUhQgl4KXRYwBWOtVHEzQvF6",
@@ -2045,7 +2143,42 @@
    "sub": "",
    "new": false,
    "open": false,
-   "date": "2025-05-26"
+   "date": "2025-05-26",
+   "options": [
+    {
+     "name": "S1796231 5.5cm 10pc 1.28g Orange",
+     "price": 55.0
+    },
+    {
+     "name": "S1796232 5.5cm 10pc 1.28g Green",
+     "price": 55.0
+    },
+    {
+     "name": "S1796233 5.5cm 10pc 1.28g Pink",
+     "price": 55.0
+    },
+    {
+     "name": "S1796230 5.5cm 10pc 1.28g River Shrimp",
+     "price": 55.0
+    },
+    {
+     "name": "S1796241 6.5cm 8pc 2.08g Orange",
+     "price": 55.0
+    },
+    {
+     "name": "S1796243 6.5cm 8pc 2.08g Green",
+     "price": 55.0
+    },
+    {
+     "name": "S1796248 6.5cm 8pc 2.08g Pink",
+     "price": 55.0
+    },
+    {
+     "name": "S1796249 6.5cm 8pc 2.08g River Shrimp",
+     "price": 55.0
+    }
+   ],
+   "note": "ราคาในตารางเป็นราคาส่งเท่ากันทุกรุ่น 55 บาทต่อซอง โดยรุ่น 5.5cm บรรจุ 10 ชิ้น และรุ่น 6.5cm บรรจุ 8 ชิ้น"
   },
   {
    "id": "1bUebdd9or3a3TO0B3QMmSwdj8WtZi2je",
@@ -3423,7 +3556,58 @@
    "sub": "",
    "new": false,
    "open": false,
-   "date": "2026-09-23"
+   "date": "2026-09-23",
+   "options": [
+    {
+     "name": "P960668201 SP682ML 06-15LB #1 Spinning",
+     "price": 1680.0
+    },
+    {
+     "name": "P960668211 SP682M 08-17LB #3 Spinning",
+     "price": 1750.0
+    },
+    {
+     "name": "P960668221 SP682ML 10-20LB #5 Spinning",
+     "price": 1800.0
+    },
+    {
+     "name": "P960668202 BC682ML 06-15LB #2 Baitcasting",
+     "price": 1680.0
+    },
+    {
+     "name": "P960668212 BC682ML 08-17LB #4 Baitcasting",
+     "price": 1750.0
+    },
+    {
+     "name": "P960668222 BC682ML 10-20LB #6 Baitcasting",
+     "price": 1800.0
+    },
+    {
+     "name": "P960668101 SP681ML 06-15LB #9 Spinning",
+     "price": 1680.0
+    },
+    {
+     "name": "P960668111 SP681ML 08-17LB #11 Spinning",
+     "price": 1750.0
+    },
+    {
+     "name": "P960668121 SP681ML 10-20LB #13 Spinning",
+     "price": 1800.0
+    },
+    {
+     "name": "P960668102 BC681ML 06-15LB #10 Baitcasting",
+     "price": 1680.0
+    },
+    {
+     "name": "P960668112 BC681ML 08-17LB #12 Baitcasting",
+     "price": 1750.0
+    },
+    {
+     "name": "P960668122 BC681ML 10-20LB #14 Baitcasting",
+     "price": 1800.0
+    }
+   ],
+   "note": "ตารางราคาส่งต่อหน่วย มีประกันสินค้า 3 ปี (3 Year Product Warranty) ขนาด 1:20"
   },
   {
    "id": "1lIYa7tyeZxrCUx093O5QEie1Hv-5e-H9",
@@ -3753,7 +3937,50 @@
    "sub": "",
    "new": false,
    "open": false,
-   "date": "2026-03-24"
+   "date": "2026-03-24",
+   "options": [
+    {
+     "name": "DS0507040 661 SP198cm 8-17LB",
+     "price": 499.0
+    },
+    {
+     "name": "DS0507041 661 BC198cm 10-20LB",
+     "price": 499.0
+    },
+    {
+     "name": "DS0507042 661 BC198cm 8-17LB",
+     "price": 499.0
+    },
+    {
+     "name": "DS0507043 661 BC198cm 10-20LB",
+     "price": 499.0
+    },
+    {
+     "name": "DS0507044 662 SP198cm 8-17LB",
+     "price": 499.0
+    },
+    {
+     "name": "DS0507045 662 SP198cm 10-20LB",
+     "price": 499.0
+    },
+    {
+     "name": "DS0507046 662 BC198cm 8-17LB",
+     "price": 499.0
+    },
+    {
+     "name": "DS0507047 662 BC198cm 10-20LB",
+     "price": 499.0
+    },
+    {
+     "name": "DS0507048 702 SP210cm 12-25LB",
+     "price": 499.0
+    },
+    {
+     "name": "DS0507049 702 BC210cm 12-25LB",
+     "price": 499.0
+    }
+   ],
+   "note": "ราคาในตารางเป็นราคาส่งต่อหน่วย (1:25) ส่วนลดตามจำนวน: ซื้อ 25 ตัว ส่งมอบ รับส่วนลด 35 + 10%; ซื้อ 25 อัน ส่งมอบ รับส่วนลด 35 + 5%"
   },
   {
    "id": "1d6zXD4j_jhuFw-0--yW_AiPXLo-5hylC",
@@ -3956,7 +4183,138 @@
    "sub": "",
    "new": false,
    "open": false,
-   "date": "2026-07-09"
+   "date": "2026-07-09",
+   "options": [
+    {
+     "name": "A25008001 0.8LB Yellow",
+     "price": 125.0
+    },
+    {
+     "name": "A25008002 0.8LB Orange",
+     "price": 125.0
+    },
+    {
+     "name": "A25008003 0.8LB Dual Green",
+     "price": 125.0
+    },
+    {
+     "name": "A25008004 0.8LB Dual Orange",
+     "price": 125.0
+    },
+    {
+     "name": "A25009001 1.0LB Yellow",
+     "price": 125.0
+    },
+    {
+     "name": "A25009002 1.0LB Orange",
+     "price": 125.0
+    },
+    {
+     "name": "A25009003 1.0LB Dual Green",
+     "price": 125.0
+    },
+    {
+     "name": "A25009004 1.0LB Dual Orange",
+     "price": 125.0
+    },
+    {
+     "name": "A25001001 1.2LB Yellow",
+     "price": 125.0
+    },
+    {
+     "name": "A25001002 1.2LB Orange",
+     "price": 125.0
+    },
+    {
+     "name": "A25001003 1.2LB Dual Green",
+     "price": 125.0
+    },
+    {
+     "name": "A25001004 1.2LB Dual Orange",
+     "price": 125.0
+    },
+    {
+     "name": "A25001005 1.5LB Yellow",
+     "price": 125.0
+    },
+    {
+     "name": "A25001006 1.5LB Orange",
+     "price": 125.0
+    },
+    {
+     "name": "A25001007 1.5LB Dual Green",
+     "price": 125.0
+    },
+    {
+     "name": "A25001008 1.5LB Dual Orange",
+     "price": 125.0
+    },
+    {
+     "name": "A25002001 2.0LB Yellow",
+     "price": 125.0
+    },
+    {
+     "name": "A25002002 2.0LB Orange",
+     "price": 125.0
+    },
+    {
+     "name": "A25002003 2.0LB Dual Green",
+     "price": 125.0
+    },
+    {
+     "name": "A25002004 2.0LB Dual Orange",
+     "price": 125.0
+    },
+    {
+     "name": "A25003001 3.0LB Yellow",
+     "price": 125.0
+    },
+    {
+     "name": "A25003002 3.0LB Orange",
+     "price": 125.0
+    },
+    {
+     "name": "A25003003 3.0LB Dual Green",
+     "price": 125.0
+    },
+    {
+     "name": "A25003004 3.0LB Dual Orange",
+     "price": 125.0
+    },
+    {
+     "name": "A25004001 4.0LB Yellow",
+     "price": 125.0
+    },
+    {
+     "name": "A25004002 4.0LB Orange",
+     "price": 125.0
+    },
+    {
+     "name": "A25004003 4.0LB Dual Green",
+     "price": 125.0
+    },
+    {
+     "name": "A25004004 4.0LB Dual Orange",
+     "price": 125.0
+    },
+    {
+     "name": "A25005001 5.0LB Yellow",
+     "price": 125.0
+    },
+    {
+     "name": "A25005002 5.0LB Orange",
+     "price": 125.0
+    },
+    {
+     "name": "A25005003 5.0LB Dual Green",
+     "price": 125.0
+    },
+    {
+     "name": "A25005004 5.0LB Dual Orange",
+     "price": 125.0
+    }
+   ],
+   "note": "ตารางราคา ราคาส่งต่อหน่วยเท่ากันทุกรุ่น 125 บาท"
   },
   {
    "id": "1Q-kyxI_2TLB5aPJpBIXaM3pbt49teJTm",
@@ -4175,7 +4533,46 @@
    "sub": "",
    "new": false,
    "open": false,
-   "date": "2025-09-01"
+   "date": "2025-09-01",
+   "options": [
+    {
+     "name": "A8144441001 1.0#/2.0LB",
+     "price": 115.0
+    },
+    {
+     "name": "A8144441001 1.5#/3.0LB",
+     "price": 115.0
+    },
+    {
+     "name": "A8144442001 2.0#/3.8LB",
+     "price": 115.0
+    },
+    {
+     "name": "A8144442501 2.5#/5.0LB",
+     "price": 115.0
+    },
+    {
+     "name": "A8144443001 3.0#/6.0LB",
+     "price": 115.0
+    },
+    {
+     "name": "A8144444001 4.0#/8.0LB",
+     "price": 115.0
+    },
+    {
+     "name": "A8144445001 5.0#/10.0LB",
+     "price": 115.0
+    },
+    {
+     "name": "A8144448001 8.0#/15.0LB",
+     "price": 115.0
+    },
+    {
+     "name": "A8144449001 10.0#/18.0LB",
+     "price": 115.0
+    }
+   ],
+   "note": "ราคาส่งต่อม้วน 115 ทุกขนาด แพ็คละ 12 ม้วน (12:120) กล่อง 120 ม้วน"
   },
   {
    "id": "11zSGgqiD2joOkF8i0UX6kWQDqK3jidAn",
@@ -4263,7 +4660,58 @@
    "sub": "",
    "new": false,
    "open": false,
-   "date": "2025-07-21"
+   "date": "2025-07-21",
+   "options": [
+    {
+     "name": "AB14440805 0.8#17LB",
+     "price": 125.0
+    },
+    {
+     "name": "AB14441005 1.0#20LB",
+     "price": 125.0
+    },
+    {
+     "name": "AB14441505 1.5#25LB",
+     "price": 125.0
+    },
+    {
+     "name": "AB14442005 2.0#30LB",
+     "price": 125.0
+    },
+    {
+     "name": "AB14442505 2.5#35LB",
+     "price": 125.0
+    },
+    {
+     "name": "AB14443005 3.0#40LB",
+     "price": 125.0
+    },
+    {
+     "name": "AB14444005 4.0#50LB",
+     "price": 125.0
+    },
+    {
+     "name": "AB14445005 5.0#60LB",
+     "price": 125.0
+    },
+    {
+     "name": "AB14448005 8.0#80LB",
+     "price": 125.0
+    },
+    {
+     "name": "AB14449005 10.0#100LB",
+     "price": 125.0
+    },
+    {
+     "name": "AB14449925 12.0#120LB",
+     "price": 125.0
+    },
+    {
+     "name": "AB14449955 15.0#150LB",
+     "price": 125.0
+    }
+   ],
+   "note": "ราคาส่ง 125 ต่อหน่วย (บรรจุ 12 ม้วน/แพ็ค ยาว 100m) ทุกเบอร์ราคาเท่ากัน"
   },
   {
    "id": "1-2pmk9ffmQb80l9WmSDTIPx5KtbO9VjE",
@@ -4379,7 +4827,46 @@
    "sub": "",
    "new": false,
    "open": false,
-   "date": "2025-07-21"
+   "date": "2025-07-21",
+   "options": [
+    {
+     "name": "A815180502 08LB",
+     "price": 50.0
+    },
+    {
+     "name": "A815181002 10LB",
+     "price": 50.0
+    },
+    {
+     "name": "A815181202 12LB",
+     "price": 50.0
+    },
+    {
+     "name": "A815181502 15LB",
+     "price": 50.0
+    },
+    {
+     "name": "A815182002 20LB",
+     "price": 50.0
+    },
+    {
+     "name": "A815182502 25LB",
+     "price": 50.0
+    },
+    {
+     "name": "A815183002 30LB",
+     "price": 50.0
+    },
+    {
+     "name": "A815184002 40LB",
+     "price": 50.0
+    },
+    {
+     "name": "A815185002 50LB",
+     "price": 50.0
+    }
+   ],
+   "note": "ราคา 50 บาทเท่ากันทุกรุ่น (ตารางราคา=ราคาส่ง) มี 2 สี Green/Yellow (itemcode สีเหลืองลงท้าย 03) บรรจุ 6 ซอง/ROLL (6:120)"
   },
   {
    "id": "15vgKLsdw6xla8WVHlDi41ZN_3whOkzkK",
@@ -4393,7 +4880,46 @@
    "sub": "",
    "new": false,
    "open": false,
-   "date": "2025-07-21"
+   "date": "2025-07-21",
+   "options": [
+    {
+     "name": "A815200501 0.8LB",
+     "price": 85.0
+    },
+    {
+     "name": "A815201001 10LB",
+     "price": 85.0
+    },
+    {
+     "name": "A815201201 12LB",
+     "price": 85.0
+    },
+    {
+     "name": "A815201501 15LB",
+     "price": 85.0
+    },
+    {
+     "name": "A815202001 20LB",
+     "price": 85.0
+    },
+    {
+     "name": "A815202501 25LB",
+     "price": 85.0
+    },
+    {
+     "name": "A815203001 30LB",
+     "price": 85.0
+    },
+    {
+     "name": "A815204001 40LB",
+     "price": 85.0
+    },
+    {
+     "name": "A815205001 50LB",
+     "price": 85.0
+    }
+   ],
+   "note": "ราคาส่ง 85 ต่อม้วน (1/8 Spool) ทุกเบอร์ สี Dark Green"
   },
   {
    "id": "1WZVFTMBTollMli0X0GOLPov-E27ZrXoT",
@@ -5135,7 +5661,38 @@
    "sub": "",
    "new": false,
    "open": false,
-   "date": "2025-07-21"
+   "date": "2025-07-21",
+   "options": [
+    {
+     "name": "P813820104 0.1# 5LB",
+     "price": 225.0
+    },
+    {
+     "name": "P813820204 0.2# 6LB",
+     "price": 225.0
+    },
+    {
+     "name": "P813820304 0.3# 8LB",
+     "price": 225.0
+    },
+    {
+     "name": "P813820404 0.4# 10LB",
+     "price": 225.0
+    },
+    {
+     "name": "P813820604 0.6# 12LB",
+     "price": 185.0
+    },
+    {
+     "name": "P813820804 0.8# 15LB",
+     "price": 185.0
+    },
+    {
+     "name": "P813821004 1.0# 20LB",
+     "price": 185.0
+    }
+   ],
+   "note": "ราคาส่ง 2 ขนาดกลุ่ม: 225 (0.1-0.4) และ 185 (0.6-1.0); เงื่อนไข (6:120) สั่ง 6 ตัวขึ้นไปราคา 120"
   },
   {
    "id": "1Y-m95Gj6xFsFqkocayXpLW_7sxB3jJbD",
@@ -5333,7 +5890,41 @@
    "sub": "",
    "new": false,
    "open": false,
-   "date": "2025-07-21"
+   "date": "2025-07-21",
+   "options": [
+    {
+     "name": "PB14140305 0.8# 15LB",
+     "price": 225.0
+    },
+    {
+     "name": "PB14140405 1.0# 20LB",
+     "price": 225.0
+    },
+    {
+     "name": "PB14140505 1.5# 32LB",
+     "price": 225.0
+    },
+    {
+     "name": "PB14142005 2.0# 36LB",
+     "price": 225.0
+    },
+    {
+     "name": "PB14142505 2.5# 44LB",
+     "price": 225.0
+    },
+    {
+     "name": "PB14143005 3.0# 48LB",
+     "price": 225.0
+    },
+    {
+     "name": "PB14144005 4.0# 55LB",
+     "price": 225.0
+    },
+    {
+     "name": "PB14145005 5.0# 66LB",
+     "price": 225.0
+    }
+   ]
   },
   {
    "id": "1_LrUu6v7mtPDt4aqfRQPVLA4RJBpVcbo",
@@ -5441,7 +6032,50 @@
    "sub": "",
    "new": false,
    "open": false,
-   "date": "2025-07-16"
+   "date": "2025-07-16",
+   "options": [
+    {
+     "name": "S2908000 #1.0",
+     "price": 399.0
+    },
+    {
+     "name": "S2908001 #1.2",
+     "price": 399.0
+    },
+    {
+     "name": "S2908002 #1.5",
+     "price": 399.0
+    },
+    {
+     "name": "S2908003 #2.0",
+     "price": 399.0
+    },
+    {
+     "name": "S2908004 #2.5",
+     "price": 399.0
+    },
+    {
+     "name": "S2908005 #3.0",
+     "price": 599.0
+    },
+    {
+     "name": "S2908006 #3.5",
+     "price": 599.0
+    },
+    {
+     "name": "S2908007 #4.0",
+     "price": 599.0
+    },
+    {
+     "name": "S2908008 #5.0",
+     "price": 799.0
+    },
+    {
+     "name": "S2908009 #6.0",
+     "price": 799.0
+    }
+   ],
+   "note": "สายฟลูโอโรคาร์บอน 100% M/Colour ความยาว 100M ราคาในตารางเป็นราคาส่งต่อหน่วย แยกตามเบอร์/ขนาด"
   },
   {
    "id": "1COUtCO3I587bhszKTvef_xE6j-bl8J8B",
@@ -5610,7 +6244,46 @@
    "sub": "",
    "new": false,
    "open": false,
-   "date": "2025-07-21"
+   "date": "2025-07-21",
+   "options": [
+    {
+     "name": "P7404018T5 #T5",
+     "price": 185.0
+    },
+    {
+     "name": "P7404018M4 #M4",
+     "price": 185.0
+    },
+    {
+     "name": "P7404018R2 #R2",
+     "price": 185.0
+    },
+    {
+     "name": "P7404018R3 #R3",
+     "price": 185.0
+    },
+    {
+     "name": "P7404018R4 #R4",
+     "price": 185.0
+    },
+    {
+     "name": "P7404018G1 #G1",
+     "price": 185.0
+    },
+    {
+     "name": "P7404018G4 #G4",
+     "price": 185.0
+    },
+    {
+     "name": "P7404018G5 #G5",
+     "price": 185.0
+    },
+    {
+     "name": "P7404018S3 #S3",
+     "price": 185.0
+    }
+   ],
+   "note": "ตารางราคา (1:10:100) ทุกรุ่นทุกขนาด (1.8/2.2/2.5/3.0) ราคาเดียวกัน 185 ต่อตัว; มี 9 สี/รุ่น (#T5 #M4 #R2 #R3 #R4 #G1 #G4 #G5 #S3) แต่ละรุ่นมี 4 ขนาด; สินค้า GLOW UV"
   },
   {
    "id": "1t9Ltta9tcykG4BZzGQrom8mFt-eQBKmP",
@@ -5624,7 +6297,142 @@
    "sub": "",
    "new": false,
    "open": false,
-   "date": "2026-02-18"
+   "date": "2026-02-18",
+   "options": [
+    {
+     "name": "#02 4.0cm 4.5G",
+     "price": 65.0
+    },
+    {
+     "name": "#02 5.0cm 6.5G",
+     "price": 70.0
+    },
+    {
+     "name": "#02 5.0cm 8.0G",
+     "price": 75.0
+    },
+    {
+     "name": "#09 4.0cm 4.5G",
+     "price": 65.0
+    },
+    {
+     "name": "#09 5.0cm 6.5G",
+     "price": 70.0
+    },
+    {
+     "name": "#09 5.0cm 8.0G",
+     "price": 75.0
+    },
+    {
+     "name": "#10 4.0cm 4.5G",
+     "price": 65.0
+    },
+    {
+     "name": "#10 5.0cm 6.5G",
+     "price": 70.0
+    },
+    {
+     "name": "#10 5.0cm 8.0G",
+     "price": 75.0
+    },
+    {
+     "name": "#11 4.0cm 4.5G",
+     "price": 65.0
+    },
+    {
+     "name": "#11 5.0cm 6.5G",
+     "price": 70.0
+    },
+    {
+     "name": "#11 5.0cm 8.0G",
+     "price": 75.0
+    },
+    {
+     "name": "#12 4.0cm 4.5G",
+     "price": 65.0
+    },
+    {
+     "name": "#12 5.0cm 6.5G",
+     "price": 70.0
+    },
+    {
+     "name": "#12 5.0cm 8.0G",
+     "price": 75.0
+    },
+    {
+     "name": "#13 4.0cm 4.5G",
+     "price": 65.0
+    },
+    {
+     "name": "#13 5.0cm 6.5G",
+     "price": 70.0
+    },
+    {
+     "name": "#13 5.0cm 8.0G",
+     "price": 75.0
+    },
+    {
+     "name": "#14 4.0cm 4.5G",
+     "price": 65.0
+    },
+    {
+     "name": "#14 5.0cm 6.5G",
+     "price": 70.0
+    },
+    {
+     "name": "#14 5.0cm 8.0G",
+     "price": 75.0
+    },
+    {
+     "name": "#15 4.0cm 4.5G",
+     "price": 65.0
+    },
+    {
+     "name": "#15 5.0cm 6.5G",
+     "price": 70.0
+    },
+    {
+     "name": "#15 5.0cm 8.0G",
+     "price": 75.0
+    },
+    {
+     "name": "#16 4.0cm 4.5G",
+     "price": 65.0
+    },
+    {
+     "name": "#16 5.0cm 6.5G",
+     "price": 70.0
+    },
+    {
+     "name": "#16 5.0cm 8.0G",
+     "price": 75.0
+    },
+    {
+     "name": "#17 4.0cm 4.5G",
+     "price": 65.0
+    },
+    {
+     "name": "#17 5.0cm 6.5G",
+     "price": 70.0
+    },
+    {
+     "name": "#17 5.0cm 8.0G",
+     "price": 75.0
+    },
+    {
+     "name": "#18 4.0cm 4.5G",
+     "price": 65.0
+    },
+    {
+     "name": "#18 5.0cm 6.5G",
+     "price": 70.0
+    },
+    {
+     "name": "#18 5.0cm 8.0G",
+     "price": 75.0
+    }
+   ],
+   "note": "ตารางราคา (1:10:100) ราคาส่งต่อหน่วยตามขนาด: 4.0cm 4.5G=65, 5.0cm 6.5G=70, 5.0cm 8.0G=75; มี 11 สี (#02,#09,#10,#11,#12,#13,#14,#15,#16,#17,#18); UV GLOW เรืองแสง; 3X PH; itemcode 4.5G=A700503xxx, 6.5G=A700504xxx, 8.0G=A700505xxx"
   },
   {
    "id": "1ly5Bh38a_exmCJJktXaawyn5PdF0H6V1",
@@ -5716,7 +6524,74 @@
    "sub": "",
    "new": false,
    "open": false,
-   "date": "2025-07-21"
+   "date": "2025-07-21",
+   "options": [
+    {
+     "name": "A711108551 85XD #51",
+     "price": 130.0
+    },
+    {
+     "name": "A711108552 85XD #52",
+     "price": 130.0
+    },
+    {
+     "name": "A711108553 85XD #53",
+     "price": 130.0
+    },
+    {
+     "name": "A711108554 85XD #54",
+     "price": 130.0
+    },
+    {
+     "name": "A711108558 85XD #58",
+     "price": 130.0
+    },
+    {
+     "name": "A711108563 85XD #63",
+     "price": 130.0
+    },
+    {
+     "name": "A711108565 85XD #65",
+     "price": 130.0
+    },
+    {
+     "name": "A711108567 85XD #67",
+     "price": 130.0
+    },
+    {
+     "name": "A711107051 70XD #51",
+     "price": 120.0
+    },
+    {
+     "name": "A711107052 70XD #52",
+     "price": 120.0
+    },
+    {
+     "name": "A711107053 70XD #53",
+     "price": 120.0
+    },
+    {
+     "name": "A711107054 70XD #54",
+     "price": 120.0
+    },
+    {
+     "name": "A711107058 70XD #58",
+     "price": 120.0
+    },
+    {
+     "name": "A711107063 70XD #63",
+     "price": 120.0
+    },
+    {
+     "name": "A711107065 70XD #65",
+     "price": 120.0
+    },
+    {
+     "name": "A711107067 70XD #67",
+     "price": 120.0
+    }
+   ],
+   "note": "ตารางราคา = ราคาส่งต่อหน่วย; 85XD (SIZE 10.6G) = 130, 70XD (SIZE 8.5G) = 120; เงื่อนไข (1:10:100) ตามหัวตาราง; 9 สี, GLOW/เรืองแสง UV"
   },
   {
    "id": "1vE3UBSNFVT94_ejn4jCGFOzTlVyV4naB",
@@ -6086,7 +6961,38 @@
    "sub": "",
    "new": false,
    "open": false,
-   "date": "2025-07-07"
+   "date": "2025-07-07",
+   "options": [
+    {
+     "name": "#06 P304008506",
+     "price": 185.0
+    },
+    {
+     "name": "#07 P304008507",
+     "price": 185.0
+    },
+    {
+     "name": "#08 P304008508",
+     "price": 185.0
+    },
+    {
+     "name": "#09 P304008509",
+     "price": 185.0
+    },
+    {
+     "name": "#10 P304008510",
+     "price": 185.0
+    },
+    {
+     "name": "#11 P304008511",
+     "price": 185.0
+    },
+    {
+     "name": "#12 P304008512",
+     "price": 185.0
+    }
+   ],
+   "note": "มี 7 สี ราคาเท่ากันทุกสี 185 บาท ต่อตัว"
   },
   {
    "id": "17EOToIr7-XyKwpXBO575CKBFVZWJCvTv",
@@ -6100,7 +7006,62 @@
    "sub": "",
    "new": false,
    "open": false,
-   "date": "2026-08-02"
+   "date": "2026-08-02",
+   "options": [
+    {
+     "name": "P30512001 #01 Shiner Black",
+     "price": 235.0
+    },
+    {
+     "name": "P30512002 #02 Silver Blue",
+     "price": 235.0
+    },
+    {
+     "name": "P30512003 #03 Silver red head",
+     "price": 235.0
+    },
+    {
+     "name": "P30512004 #04 Blue Sardine",
+     "price": 235.0
+    },
+    {
+     "name": "P30512006 #06 Green Shad",
+     "price": 235.0
+    },
+    {
+     "name": "P30512007 #07 Hot Pink",
+     "price": 235.0
+    },
+    {
+     "name": "P30512008 #08 Mackerel",
+     "price": 235.0
+    },
+    {
+     "name": "P30512009 #09 Mullet",
+     "price": 235.0
+    },
+    {
+     "name": "P30512010 #10 Blue Shiner",
+     "price": 235.0
+    },
+    {
+     "name": "P30512011 #11 Gold Olive",
+     "price": 235.0
+    },
+    {
+     "name": "P30512013 #13 Pearl Red Head",
+     "price": 235.0
+    },
+    {
+     "name": "P30512015 #15 Streak Blue",
+     "price": 235.0
+    },
+    {
+     "name": "P30512016 #16 Streak Purple",
+     "price": 235.0
+    }
+   ],
+   "note": "ราคา 235 ต่อตัว ทุกสี/รุ่น (ตารางราคา)"
   },
   {
    "id": "1Vs98EhMhv9cHyPIf8fEzUsCVSkiailrd",
@@ -7302,7 +8263,82 @@
    "sub": "",
    "new": false,
    "open": false,
-   "date": "2026-05-06"
+   "date": "2026-05-06",
+   "options": [
+    {
+     "name": "A506500103 #1",
+     "price": 20.0
+    },
+    {
+     "name": "A506500203 #2",
+     "price": 20.0
+    },
+    {
+     "name": "A506500303 #3",
+     "price": 20.0
+    },
+    {
+     "name": "A506500403 #4",
+     "price": 20.0
+    },
+    {
+     "name": "A506500503 #5",
+     "price": 20.0
+    },
+    {
+     "name": "A506500603 #6",
+     "price": 20.0
+    },
+    {
+     "name": "A506500703 #7",
+     "price": 20.0
+    },
+    {
+     "name": "A506500803 #8",
+     "price": 20.0
+    },
+    {
+     "name": "A506500903 #9",
+     "price": 20.0
+    },
+    {
+     "name": "A506501003 #10",
+     "price": 20.0
+    },
+    {
+     "name": "A506501103 #11",
+     "price": 20.0
+    },
+    {
+     "name": "A506501203 #12",
+     "price": 20.0
+    },
+    {
+     "name": "A506501303 #13",
+     "price": 20.0
+    },
+    {
+     "name": "A506501403 #14",
+     "price": 20.0
+    },
+    {
+     "name": "A506501503 #15",
+     "price": 20.0
+    },
+    {
+     "name": "A506501603 #16",
+     "price": 20.0
+    },
+    {
+     "name": "A506501803 #18",
+     "price": 20.0
+    },
+    {
+     "name": "A506502003 #20",
+     "price": 20.0
+    }
+   ],
+   "note": "ราคา 20- / กล่อง (ต่อกล่อง) ทุกเบอร์; จำนวนตะขอต่อกล่องตามเบอร์: #1-#10 = 100, #11=90, #12=80, #13=70, #14=60, #15=50, #16=30, #18=20, #20=12"
   },
   {
    "id": "1a8yCUIAgozUsGVyeG3WpcoHTpMF4ueBc",
@@ -7708,7 +8744,66 @@
    "sub": "",
    "new": false,
    "open": false,
-   "date": "2025-09-07"
+   "date": "2025-09-07",
+   "options": [
+    {
+     "name": "P505200100 #1",
+     "price": 1.8
+    },
+    {
+     "name": "P505200200 #2",
+     "price": 1.65
+    },
+    {
+     "name": "P505200400 #4",
+     "price": 1.55
+    },
+    {
+     "name": "P505200600 #6",
+     "price": 1.4
+    },
+    {
+     "name": "P505200800 #8",
+     "price": 1.35
+    },
+    {
+     "name": "P505201000 #10",
+     "price": 1.3
+    },
+    {
+     "name": "P505210000 #1/0",
+     "price": 2.0
+    },
+    {
+     "name": "P505220000 #2/0",
+     "price": 2.3
+    },
+    {
+     "name": "P505230000 #3/0",
+     "price": 2.5
+    },
+    {
+     "name": "P505240000 #4/0",
+     "price": 3.2
+    },
+    {
+     "name": "P505250000 #5/0",
+     "price": 4.0
+    },
+    {
+     "name": "P505260000 #6/0",
+     "price": 5.0
+    },
+    {
+     "name": "P505270000 #7/0",
+     "price": 6.0
+    },
+    {
+     "name": "P505280000 #8/0",
+     "price": 7.0
+    }
+   ],
+   "note": "ตารางราคาส่งต่อชิ้น (Price Per Pcs) แยกตามเบอร์ตะขอ; มีคอลัมน์ส่วนลด 35% ตามตาราง (ไม่คิดราคาใหม่); จำนวนต่อกล่อง 1000 ชิ้น (เบอร์ #1-#10) และ 1000 ชิ้นสำหรับเบอร์ 0 ขึ้นไป"
   },
   {
    "id": "1EL8XMroQailL6EckidEE3R2bhMBQNGxG",
@@ -8114,7 +9209,66 @@
    "sub": "",
    "new": false,
    "open": false,
-   "date": "2025-07-16"
+   "date": "2025-07-16",
+   "options": [
+    {
+     "name": "DS0505356 Shikari Chinu 1053 Hook #1",
+     "price": 10.0
+    },
+    {
+     "name": "DS0505357 Shikari Chinu 1053 Hook #2",
+     "price": 10.0
+    },
+    {
+     "name": "DS0505358 Shikari Chinu 1053 Hook #3",
+     "price": 10.0
+    },
+    {
+     "name": "DS0505359 Shikari Chinu 1053 Hook #4",
+     "price": 10.0
+    },
+    {
+     "name": "DS0505360 Shikari Chinu 1053 Hook #5",
+     "price": 10.0
+    },
+    {
+     "name": "DS0505361 Shikari Chinu 1053 Hook #6",
+     "price": 10.0
+    },
+    {
+     "name": "DS0505362 Shikari Chinu 1053 Hook #7",
+     "price": 10.0
+    },
+    {
+     "name": "DS0505363 Shikari Chinu 1053 Hook #8",
+     "price": 10.0
+    },
+    {
+     "name": "DS0505364 Shikari Chinu 1053 Hook #9",
+     "price": 10.0
+    },
+    {
+     "name": "DS0505365 Shikari Chinu 1053 Hook #10",
+     "price": 10.0
+    },
+    {
+     "name": "DS0505366 Shikari Chinu 1053 Hook #11",
+     "price": 10.0
+    },
+    {
+     "name": "DS0505367 Shikari Chinu 1053 Hook #12",
+     "price": 10.0
+    },
+    {
+     "name": "DS0505368 Shikari Chinu 1053 Hook #13",
+     "price": 10.0
+    },
+    {
+     "name": "DS0505369 Shikari Chinu 1053 Hook #14",
+     "price": 10.0
+    }
+   ],
+   "note": "ราคาส่ง 10 ต่อซอง ทุกเบอร์ (1 กล่อง = 40 ซอง) สั่งขั้นต่ำ 1 กล่อง 40 ซอง (กล่องละ 35-50 ซอง) ซองละ 13 pcs (เบอร์ #1-#8) / 8 pcs (#9-#10) / 7 pcs (#11-#12) / 5 pcs (#13) / 4 pcs (#14)"
   },
   {
    "id": "1SSB6YhDHGuHHWNzRg3Mp7fWk3-jjyM0Y",
@@ -8128,7 +9282,70 @@
    "sub": "",
    "new": false,
    "open": false,
-   "date": "2026-06-02"
+   "date": "2026-06-02",
+   "options": [
+    {
+     "name": "DS05070128 #1",
+     "price": 10.0
+    },
+    {
+     "name": "DS05070135 #2",
+     "price": 10.0
+    },
+    {
+     "name": "DS05070142 #3",
+     "price": 10.0
+    },
+    {
+     "name": "DS05070159 #4",
+     "price": 10.0
+    },
+    {
+     "name": "DS05070166 #5",
+     "price": 10.0
+    },
+    {
+     "name": "DS05070173 #6",
+     "price": 10.0
+    },
+    {
+     "name": "DS05070180 #7",
+     "price": 10.0
+    },
+    {
+     "name": "DS05070197 #8",
+     "price": 10.0
+    },
+    {
+     "name": "DS05070203 #9",
+     "price": 10.0
+    },
+    {
+     "name": "DS05070210 #10",
+     "price": 10.0
+    },
+    {
+     "name": "DS05070227 #11",
+     "price": 10.0
+    },
+    {
+     "name": "DS05070234 #12",
+     "price": 10.0
+    },
+    {
+     "name": "DS05070241 #13",
+     "price": 10.0
+    },
+    {
+     "name": "DS05070258 #14",
+     "price": 10.0
+    },
+    {
+     "name": "DS05070265 #15",
+     "price": 10.0
+    }
+   ],
+   "note": "1 กล่อง QCY:40/PACK; สั่งขั้นต่ำกล่อง 40 ชิ้น (เทียบเท่า) รับส่วนลดพิเศษ (35+5%)"
   },
   {
    "id": "1lfac5_3HCQSsb4hxZ5Uj156AlygKKqCy",
@@ -9108,7 +10325,30 @@
    "sub": "",
    "new": false,
    "open": false,
-   "date": "2025-07-25"
+   "date": "2025-07-25",
+   "options": [
+    {
+     "name": "15g",
+     "price": 105.0
+    },
+    {
+     "name": "18g",
+     "price": 115.0
+    },
+    {
+     "name": "28g",
+     "price": 120.0
+    },
+    {
+     "name": "40g",
+     "price": 130.0
+    },
+    {
+     "name": "60g",
+     "price": 140.0
+    }
+   ],
+   "note": "มี 5 สี (#41-#45) ราคาตามขนาด 15/18/28/40/60g เท่ากันทุกสี; เงื่อนไข (10:100); ราคาในตารางเป็นราคาส่ง"
   },
   {
    "id": "1HUIlgPIP4lFKmudKcCCDpBSRNm_tLdvx",
@@ -9509,7 +10749,82 @@
    "sub": "",
    "new": false,
    "open": false,
-   "date": "2025-07-25"
+   "date": "2025-07-25",
+   "options": [
+    {
+     "name": "A750103002 30cm #02",
+     "price": 12.0
+    },
+    {
+     "name": "A750103004 30cm #04",
+     "price": 12.0
+    },
+    {
+     "name": "A750103007 30cm #07",
+     "price": 12.0
+    },
+    {
+     "name": "A750103008 30cm #08",
+     "price": 12.0
+    },
+    {
+     "name": "A750103009 30cm #09",
+     "price": 12.0
+    },
+    {
+     "name": "A750103010 30cm #10",
+     "price": 12.0
+    },
+    {
+     "name": "A750103011 30cm #11",
+     "price": 12.0
+    },
+    {
+     "name": "A750103012 30cm #12",
+     "price": 12.0
+    },
+    {
+     "name": "A750103013 30cm #13",
+     "price": 12.0
+    },
+    {
+     "name": "A750103015 30cm #15",
+     "price": 12.0
+    },
+    {
+     "name": "A750103018 30cm #18",
+     "price": 12.0
+    },
+    {
+     "name": "A750103020 30cm #20",
+     "price": 12.0
+    },
+    {
+     "name": "A750103025 30cm #25",
+     "price": 12.0
+    },
+    {
+     "name": "A750103026 30cm #26",
+     "price": 12.0
+    },
+    {
+     "name": "A750103027 30cm #27",
+     "price": 12.0
+    },
+    {
+     "name": "A750103028 30cm #28",
+     "price": 12.0
+    },
+    {
+     "name": "A750103029 30cm #29",
+     "price": 12.0
+    },
+    {
+     "name": "A750103031 30cm #31",
+     "price": 12.0
+    }
+   ],
+   "note": "ราคา 12 บาทเท่ากันทุกรุ่น (ตารางราคาส่ง) 1 แพ็คบรรจุ 10 ซอง เงื่อนไขจำนวน (10:50:1000)"
   },
   {
    "id": "1_Yv5Csy5jEcxsm4Oa-d0oZnX219_JSkG",
@@ -10476,7 +11791,74 @@
    "sub": "",
    "new": false,
    "open": false,
-   "date": "2025-07-07"
+   "date": "2025-07-07",
+   "options": [
+    {
+     "name": "9902300004 PH3 Open Finger Size XS #04-Pink",
+     "price": 450.0
+    },
+    {
+     "name": "9902300020 PH3 Open Finger Size M #01-Black",
+     "price": 450.0
+    },
+    {
+     "name": "9902300301 PH3 Open Finger Size L #03-Black",
+     "price": 450.0
+    },
+    {
+     "name": "9902300304 PH3 Open Finger Size XL #01-Black",
+     "price": 450.0
+    },
+    {
+     "name": "9902300303 PH3 Open Finger Size M #03-White",
+     "price": 450.0
+    },
+    {
+     "name": "9902300303 PH3 Open Finger Size L #03-White",
+     "price": 450.0
+    },
+    {
+     "name": "9902300403 PH3 Open Finger Size XL #03-White",
+     "price": 450.0
+    },
+    {
+     "name": "9902300402 PH3 Open Finger Size XL #02-Blue",
+     "price": 450.0
+    },
+    {
+     "name": "990250001 PH All Purpose Size XS #01-Black",
+     "price": 599.0
+    },
+    {
+     "name": "990250001 PH All Purpose Size 2XL #04-Pink",
+     "price": 599.0
+    },
+    {
+     "name": "990250002 PH All Purpose Size M #02-Blue",
+     "price": 599.0
+    },
+    {
+     "name": "990250002 PH All Purpose Size 2XL #02-Blue",
+     "price": 599.0
+    },
+    {
+     "name": "990250301 PH All Purpose Size L #01-Black",
+     "price": 599.0
+    },
+    {
+     "name": "990250401 PH All Purpose Size XL #01-Black",
+     "price": 599.0
+    },
+    {
+     "name": "990250302 PH All Purpose Size L #02-Blue",
+     "price": 599.0
+    },
+    {
+     "name": "990250402 PH All Purpose Size XL #02-Blue",
+     "price": 599.0
+    }
+   ],
+   "note": "ราคาในตารางเป็นราคาส่งต่อหน่วย; PH3 Open Finger = 450, PH All Purpose = 599; หัวข้อราคา (1:20) ระบุอัตราส่วน/เงื่อนไขการสั่งซื้อ; มีตารางขนาด SIZE A-B (XS 8cm, M 9cm, L 9.5cm, XL 10cm, 2XL 10.5cm)"
   },
   {
    "id": "1wliGfcFZULgeQtjbHpLwqQ780Vs-cwGw",
@@ -10653,7 +12035,50 @@
    "sub": "",
    "new": false,
    "open": false,
-   "date": "2025-09-08"
+   "date": "2025-09-08",
+   "options": [
+    {
+     "name": "S1796319 Shimano 35.6mm L",
+     "price": 399.0
+    },
+    {
+     "name": "S1796320 Shimano 35.6mm R",
+     "price": 399.0
+    },
+    {
+     "name": "S1796321 Shimano 38.5mm L",
+     "price": 399.0
+    },
+    {
+     "name": "S1796322 Shimano 38.5mm R",
+     "price": 399.0
+    },
+    {
+     "name": "S1796323 Daiwa 30.8mm L",
+     "price": 399.0
+    },
+    {
+     "name": "S1796324 Daiwa 30.8mm R",
+     "price": 399.0
+    },
+    {
+     "name": "S1796342 Daiwa 34.0mm L",
+     "price": 399.0
+    },
+    {
+     "name": "S1796541 Daiwa 34.0mm R",
+     "price": 399.0
+    },
+    {
+     "name": "S1795961 Sembo HG 117 L",
+     "price": 399.0
+    },
+    {
+     "name": "S1795979 Sembo HG 117 R",
+     "price": 399.0
+    }
+   ],
+   "note": "ตารางราคา = ราคาส่งต่อหน่วย ทุก itemcode ราคา 399"
   },
   {
    "id": "10fNqi03hhUc1FovvB3jYHyMZYdzTXSbc",
@@ -11213,7 +12638,26 @@
    "sub": "",
    "new": false,
    "open": false,
-   "date": "2026-08-06"
+   "date": "2026-08-06",
+   "options": [
+    {
+     "name": "M0996481 000# (SS) ZQ-01 Silver",
+     "price": 20.0
+    },
+    {
+     "name": "M0996482 00# (S) ZQ-02 Silver",
+     "price": 20.0
+    },
+    {
+     "name": "M0996483 0# (M) ZQ-03 Silver",
+     "price": 20.0
+    },
+    {
+     "name": "M0996484 1# (L) ZQ-04 Silver",
+     "price": 20.0
+    }
+   ],
+   "note": "ราคา 20 ต่อหน่วย ทุกขนาด (SS/S/M/L) บรรจุ 14 pcs ต่อซอง"
   },
   {
    "id": "1kVhGjZ1MH0WHQ9-FMUxCdoHfAFIM9leT",
@@ -11227,7 +12671,78 @@
    "sub": "",
    "new": false,
    "open": false,
-   "date": "2024-06-05"
+   "date": "2024-06-05",
+   "options": [
+    {
+     "name": "M0996513 BZDQ-01 S",
+     "price": 45.0
+    },
+    {
+     "name": "M0996514 BZDQ-02 M",
+     "price": 45.0
+    },
+    {
+     "name": "M0996515 BZDQ-03 L",
+     "price": 45.0
+    },
+    {
+     "name": "M0996516 LXDQ-01 SS",
+     "price": 40.0
+    },
+    {
+     "name": "M0996517 LXDQ-02 S",
+     "price": 40.0
+    },
+    {
+     "name": "M0996518 LXDQ-03 M",
+     "price": 40.0
+    },
+    {
+     "name": "M0996519 LXDQ-04 L",
+     "price": 40.0
+    },
+    {
+     "name": "M0996520 YBDQ-01 SS",
+     "price": 40.0
+    },
+    {
+     "name": "M0996521 YBDQ-02 S",
+     "price": 40.0
+    },
+    {
+     "name": "M0996522 YBDQ-03 M",
+     "price": 40.0
+    },
+    {
+     "name": "M0996523 YBDQ-04 L",
+     "price": 40.0
+    },
+    {
+     "name": "M0996524 YBDQ-05 LL",
+     "price": 40.0
+    },
+    {
+     "name": "M0996525 YBSQ-01 SS",
+     "price": 20.0
+    },
+    {
+     "name": "M0996526 YBSQ-02 S",
+     "price": 20.0
+    },
+    {
+     "name": "M0996527 YBSQ-03 M",
+     "price": 20.0
+    },
+    {
+     "name": "M0996528 YBSQ-04 L",
+     "price": 20.0
+    },
+    {
+     "name": "M0996529 YBSQ-05 LL",
+     "price": 20.0
+    }
+   ],
+   "note": "ราคาในตารางเป็นราคาส่งต่อหน่วย; ตารางบนแสดงจำนวนชิ้นต่อแพ็ค (BZDQ=5, LXDQ=9, YBDQ/YBSQ=12/10 ตามขนาด)"
   },
   {
    "id": "1vsVo3n6Houruzms9CmFnuY_NliKxdO2E",
@@ -11872,7 +13387,74 @@
    "sub": "",
    "new": false,
    "open": false,
-   "date": "2025-11-09"
+   "date": "2025-11-09",
+   "options": [
+    {
+     "name": "MD996103 MBN-501A Grey",
+     "price": 45.0
+    },
+    {
+     "name": "MD996105 MBN-502A Grey",
+     "price": 45.0
+    },
+    {
+     "name": "MD996107 MBN-503A Grey",
+     "price": 45.0
+    },
+    {
+     "name": "MD996109 MBN-504A Grey",
+     "price": 45.0
+    },
+    {
+     "name": "MD996155 MBN-601A Grey",
+     "price": 60.0
+    },
+    {
+     "name": "MD996157 MBN-602A Grey",
+     "price": 60.0
+    },
+    {
+     "name": "MD996159 MBN-603A Grey",
+     "price": 60.0
+    },
+    {
+     "name": "MD996161 MBN-604A Grey",
+     "price": 60.0
+    },
+    {
+     "name": "MD996147 MBN-701A Grey",
+     "price": 75.0
+    },
+    {
+     "name": "MD996149 MBN-702A Grey",
+     "price": 75.0
+    },
+    {
+     "name": "MD996151 MBN-703A Grey",
+     "price": 75.0
+    },
+    {
+     "name": "MD996153 MBN-704A Grey",
+     "price": 75.0
+    },
+    {
+     "name": "MD996139 MBN-801A Grey",
+     "price": 90.0
+    },
+    {
+     "name": "MD996141 MBN-802A Grey",
+     "price": 90.0
+    },
+    {
+     "name": "MD996143 MBN-803A Grey",
+     "price": 90.0
+    },
+    {
+     "name": "MD996145 MBN-804A Grey",
+     "price": 90.0
+    }
+   ],
+   "note": "ตารางราคาเป็นราคาส่งต่อหน่วย แยกตามขนาด/ซีรีส์: 500 (S) 45, 600 (M) 60, 700 (L) 75, 800 (LL) 90; แต่ละซีรีส์มี 4 แบบ (01-04) ราคาเท่ากัน"
   },
   {
    "id": "1h2SQVYaBiJrw3NiAVpkeX7YeU16eEU19",
@@ -12829,7 +14411,38 @@
    "sub": "",
    "new": false,
    "open": false,
-   "date": "2025-11-07"
+   "date": "2025-11-07",
+   "options": [
+    {
+     "name": "M0996003 Pink",
+     "price": 599.0
+    },
+    {
+     "name": "M0996004 Ivory",
+     "price": 599.0
+    },
+    {
+     "name": "M0996005 Seaweed Blue",
+     "price": 599.0
+    },
+    {
+     "name": "M0996006 Green",
+     "price": 599.0
+    },
+    {
+     "name": "M0996007 Lemon yellow",
+     "price": 599.0
+    },
+    {
+     "name": "M0996008 Black",
+     "price": 599.0
+    },
+    {
+     "name": "M0996003 Transparent Purple",
+     "price": 599.0
+    }
+   ],
+   "note": "ราคาในตารางเป็นราคาส่งต่อหน่วย 599 บาท ทุกสี/ทุกรุ่น"
   },
   {
    "id": "1rTriwQAJ-QwvWUiCmzo2uJ0_ImFAd-k6",
@@ -13046,7 +14659,62 @@
    "sub": "",
    "new": false,
    "open": false,
-   "date": "2025-10-27"
+   "date": "2025-10-27",
+   "options": [
+    {
+     "name": "SPI00101 Drag Knob Assembly",
+     "price": 100.0
+    },
+    {
+     "name": "SPI00103 Spool Clicker Set",
+     "price": 20.0
+    },
+    {
+     "name": "SPI00105 Main Shaft",
+     "price": 45.0
+    },
+    {
+     "name": "SPI00107 Ball Arm (Side)",
+     "price": 50.0
+    },
+    {
+     "name": "SPI00109 Line Roller Set",
+     "price": 75.0
+    },
+    {
+     "name": "SPI00111 Ball Arm",
+     "price": 100.0
+    },
+    {
+     "name": "SPI00113 One Way Ball Bearing",
+     "price": 75.0
+    },
+    {
+     "name": "SPI00115 Brass Pinion Gear",
+     "price": 85.0
+    },
+    {
+     "name": "SPI00117 Handle Screw Cap",
+     "price": 25.0
+    },
+    {
+     "name": "SPI00119 Driver Gear",
+     "price": 100.0
+    },
+    {
+     "name": "SPI00121 Handle Assembly Set",
+     "price": 480.0
+    },
+    {
+     "name": "SPI00123 Oscillation Gear",
+     "price": 50.0
+    },
+    {
+     "name": "SPI00125 Oscillation Slider",
+     "price": 40.0
+    }
+   ],
+   "note": "ตารางราคา spare part สำหรับรุ่น 2000 (รหัส SPI...01/03/05...) และ 2500/3000 (รหัส SPI...02/04/06...) ราคาต่อชิ้นตามตาราง"
   },
   {
    "id": "1i3nFqiZdeuXVarwlZm0Ke_GRl96k7c3V",
@@ -13060,7 +14728,98 @@
    "sub": "",
    "new": false,
    "open": false,
-   "date": "2025-10-27"
+   "date": "2025-10-27",
+   "options": [
+    {
+     "name": "SP10022 #01 Drag Knob Assy (2000/3000)",
+     "price": 70.0
+    },
+    {
+     "name": "SP10023 #01 Drag Knob Assy (4000/5000/6000)",
+     "price": 70.0
+    },
+    {
+     "name": "SP10024 #14 Ball Assy / #16 Ball Holder (2000)",
+     "price": 50.0
+    },
+    {
+     "name": "SP10025 #14 Ball Assy / #16 Ball Holder (3000)",
+     "price": 50.0
+    },
+    {
+     "name": "SP10026 #14 Ball Assy / #16 Ball Holder (4000)",
+     "price": 50.0
+    },
+    {
+     "name": "SP10027 #14 Ball Assy / #16 Ball Holder (5000)",
+     "price": 50.0
+    },
+    {
+     "name": "SP10028 #14 Ball Assy / #16 Ball Holder (6000)",
+     "price": 50.0
+    },
+    {
+     "name": "SP10022A #14 Ball Assy / #16 Ball Holder (2000)",
+     "price": 50.0
+    },
+    {
+     "name": "SP10024 #19 Ball Arm (2000/3000)",
+     "price": 50.0
+    },
+    {
+     "name": "SP10025 #19 Ball Arm (4000/5000/6000)",
+     "price": 50.0
+    },
+    {
+     "name": "SP10024 #28 Ball Arm (2000/3000)",
+     "price": 80.0
+    },
+    {
+     "name": "SP10025 #28 Ball Arm (4000/5000/6000)",
+     "price": 80.0
+    },
+    {
+     "name": "SP10024 #37 Pinion Gear (2000/3000)",
+     "price": 90.0
+    },
+    {
+     "name": "SP10025 #37 Pinion Gear (4000/5000/6000)",
+     "price": 90.0
+    },
+    {
+     "name": "SP10021 #47 Oscillation Gear (2000/3000)",
+     "price": 40.0
+    },
+    {
+     "name": "SP10022 #47 Oscillation Gear (4000/5000/6000)",
+     "price": 40.0
+    },
+    {
+     "name": "SP10022 #54 Drive Gear (2000/3000)",
+     "price": 80.0
+    },
+    {
+     "name": "SP10023 #54 Drive Gear (4000/5000/6000)",
+     "price": 80.0
+    },
+    {
+     "name": "SP10024 #61 Handle Assy (2000)",
+     "price": 250.0
+    },
+    {
+     "name": "SP10025 #61 Handle Assy (3000)",
+     "price": 250.0
+    },
+    {
+     "name": "SP10026 #61 Handle Assy (4000)",
+     "price": 400.0
+    },
+    {
+     "name": "SP10027 #61 Handle Assy (5000/6000)",
+     "price": 400.0
+    }
+   ],
+   "note": "ตารางราคาอะไหล่ (Spare Part) ของรอก Asari Hades ราคาในตารางคือราคาส่งต่อหน่วย แยกตาม itemcode และขนาดรอก (2000-6000)"
   },
   {
    "id": "1m6gOSgbLZy5bSIwv-2qTlNtE7mhV435U",
@@ -13119,7 +14878,74 @@
    "sub": "",
    "new": false,
    "open": false,
-   "date": "2025-10-27"
+   "date": "2025-10-27",
+   "options": [
+    {
+     "name": "SP1000228 #10 Drag Knob Assembly",
+     "price": 85.0
+    },
+    {
+     "name": "SP1000228 #10/11 Line Clip Set",
+     "price": 15.0
+    },
+    {
+     "name": "SP1000228 #11 Main Shaft",
+     "price": 50.0
+    },
+    {
+     "name": "SP1000231 #13/#14 Ball Arm (Side) Set",
+     "price": 45.0
+    },
+    {
+     "name": "SP1000234 #15/16/87 One Way Roller Set",
+     "price": 50.0
+    },
+    {
+     "name": "SP1000240 #18 Arm Ball Arm",
+     "price": 85.0
+    },
+    {
+     "name": "SP1000243 #31 Ball Bearing 67*45",
+     "price": 35.0
+    },
+    {
+     "name": "SP1000244 #32 One Way Clutch",
+     "price": 65.0
+    },
+    {
+     "name": "SP1000247 #34 Ball Bearing 67*35",
+     "price": 35.0
+    },
+    {
+     "name": "SP1000248 #35 Baret Pinion Gear",
+     "price": 85.0
+    },
+    {
+     "name": "SP1000251 #36 Handle Screw Cap",
+     "price": 15.0
+    },
+    {
+     "name": "SP1000254 #36 Drive Gear",
+     "price": 85.0
+    },
+    {
+     "name": "SP1000257 #41 Ball Bearing 87*44",
+     "price": 35.0
+    },
+    {
+     "name": "SP1000258 #44 Handle Assembly",
+     "price": 180.0
+    },
+    {
+     "name": "SP1000263 #45/47 Gear",
+     "price": 45.0
+    },
+    {
+     "name": "SP1000264 #47/48 Slider",
+     "price": 45.0
+    }
+   ],
+   "note": "ตารางราคา spare part ของ Asari Vanish; ราคาเป็นราคาส่งต่อหน่วย แยกตามช่วงจำนวน (1000-2000 / 3000-4000 / 5000-6000) แต่ละช่วงมี itemcode ต่างกัน; #44 Handle Assembly ช่วง 5000-6000 ราคา 360"
   },
   {
    "id": "1GRVn0UNuElzNB_9KtWrUQepFVKcCBGu3",
@@ -13148,7 +14974,106 @@
    "sub": "",
    "new": false,
    "open": false,
-   "date": "2025-10-28"
+   "date": "2025-10-28",
+   "options": [
+    {
+     "name": "SP1000002 #102 Outgoing Loop",
+     "price": 25.0
+    },
+    {
+     "name": "SP1000003 #02 Lever Wind Pin",
+     "price": 30.0
+    },
+    {
+     "name": "SP1000004 #03 Lever Wind Pin",
+     "price": 20.0
+    },
+    {
+     "name": "SP1000005 #04 Clutch",
+     "price": 25.0
+    },
+    {
+     "name": "SP1000006 #05 Worm Shaft",
+     "price": 50.0
+    },
+    {
+     "name": "SP1000007 #06 Idler",
+     "price": 20.0
+    },
+    {
+     "name": "SP1000008 #07 Lever Wind Nut",
+     "price": 15.0
+    },
+    {
+     "name": "SP1000009 #08 Bearing Socket",
+     "price": 35.0
+    },
+    {
+     "name": "SP1000010 #09 Crank Shaft",
+     "price": 60.0
+    },
+    {
+     "name": "SP1000011 #10 Ratchet",
+     "price": 20.0
+    },
+    {
+     "name": "SP1000012 #11 Clutch Cam",
+     "price": 25.0
+    },
+    {
+     "name": "SP1000013 #12 Kick Lever",
+     "price": 25.0
+    },
+    {
+     "name": "SP1000014 #13 Worm Shaft",
+     "price": 65.0
+    },
+    {
+     "name": "SP1000015 #14 Drive Gear",
+     "price": 150.0
+    },
+    {
+     "name": "SP1000016 #15 Spool",
+     "price": 30.0
+    },
+    {
+     "name": "SP1000017 #16 Front Cover",
+     "price": 60.0
+    },
+    {
+     "name": "SP1000018 #17 Ball Bearing 3x7x5",
+     "price": 30.0
+    },
+    {
+     "name": "SP1000019 #18 Front Cover Screw",
+     "price": 50.0
+    },
+    {
+     "name": "SP1000020 #19 Handle Nut",
+     "price": 40.0
+    },
+    {
+     "name": "SP1000021 #20 Handle Nut Retainer",
+     "price": 40.0
+    },
+    {
+     "name": "SP1000022 #21 Handle Knob",
+     "price": 40.0
+    },
+    {
+     "name": "SP1000023 #22 Front Side Plate",
+     "price": 70.0
+    },
+    {
+     "name": "SP1000024 #23 Ratchet",
+     "price": 35.0
+    },
+    {
+     "name": "SP1000025 SET #17+#21+#22",
+     "price": 50.0
+    }
+   ],
+   "note": "ตารางราคาอะไหล่ (Spare Part) ของรอก Asari Zeus BC ราคาส่งต่อชิ้นตาม itemcode"
   },
   {
    "id": "1i6zgR_P_F9eyZNFO4H540FSHczfBhEZT",
@@ -13613,7 +15538,21 @@
    "sub": "",
    "new": false,
    "open": false,
-   "date": "2025-01-22"
+   "date": "2025-01-22",
+   "options": [
+    {
+     "name": "DS60S484 PE 1-3",
+     "price": 1550.0
+    },
+    {
+     "name": "DS60S485 PE 2-4",
+     "price": 1600.0
+    },
+    {
+     "name": "DS60S486 PE 3-5",
+     "price": 1650.0
+    }
+   ]
   },
   {
    "id": "1JUylJkrzmPv3OsTdh56UNBWe2G17RW_D",
